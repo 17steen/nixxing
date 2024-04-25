@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/robin/Sources/nix/hello/cmake-build-debug",
+  "command": "/nix/store/4kwk49k8rc8cg8c387kbbjcrl8i0y693-gcc-wrapper-13.2.0/bin/g++  -isystem /nix/store/rlf6jmwp306wr1bv2gi7bhcq7kwn9bhj-opencv-4.9.0/include/opencv4 -std=gnu++20 -o CMakeFiles/hello.dir/main.cpp.o -c /home/robin/Sources/nix/hello/src/main.cpp",
+  "file": "/home/robin/Sources/nix/hello/src/main.cpp",
+  "output": "CMakeFiles/hello.dir/main.cpp.o"
+}
+]
